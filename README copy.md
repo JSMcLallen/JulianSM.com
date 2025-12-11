@@ -27,9 +27,10 @@
  
 #Phase 4
 
-###Additional styling and uploading
+###Additional styling plans and uploading
 
  - Experimented with two different letter animations; typewriter and floating up into place
  - Decided on typewriter
  - Still developing my own style based on [these examples](https://css-tricks.com/snippets/css/typewriter-effect/)
+ - Plans to style and personalize the audio control interface in the *Projects* page
  
