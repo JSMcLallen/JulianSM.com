@@ -1,0 +1,42 @@
+body {
+  font-family: Shippori Mincho;
+  background-color: black;
+  text-align: left;
+  margin: 135px 200px 100px 400px;
+}
+h1 {
+    color: rgb(200, 200, 200);
+    font-family: Shippori Mincho;
+  text-align: left;
+  margin-bottom: 50px;
+}
+p {
+  background-color: rgb(200, 200, 200);
+  color: rgb(30, 30, 30);
+  border: 3px solid rgb(200, 200, 200);
+  text-align: left;
+  margin-right: 500px;
+  margin-bottom: 50px;
+  font-family: Raleway;
+  font-size: 110%;
+  line-height: 1.1;
+}
+a:link {
+  color: rgb(150, 50, 30);
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: rgb(150, 50, 30);
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: white;
+  background color: transparent;
+    text-shadow: 0 0 2px #ededed;
+}
+img {
+	  display: block;
+  margin-left: 400px;
+}

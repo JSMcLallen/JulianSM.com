@@ -1,0 +1,39 @@
+body {
+	font-family: Shippori Mincho;
+	background-color: black;
+	letter-spacing: 2px;
+	margin: 200px 200px 100px 400px;
+}
+h1 {
+    color: rgb(200, 200, 200);
+	text-align: left;
+}
+a:link {
+	color: rgb(200, 200, 200);
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+	color: rgb(200, 200, 200);
+	background-color: transparent;
+	text-decoration: none;
+}
+a:hover {
+	color: white;
+	background color: transparent;
+    text-shadow: 0 0 2px #ededed;
+    font-size: 103%;
+}
+.dropdown {
+	position: relative;
+}
+.dropdown-content a {
+	display: none;
+    color: rgb(200, 200, 200);
+    text-align: left;
+    font-family: Raleway;
+	font-size: 60%;
+}
+.dropdown:hover .dropdown-content a {
+    display: block;
+}
